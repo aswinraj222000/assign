@@ -22,5 +22,3 @@ do
       tryagain
    fi
 done
-
-
